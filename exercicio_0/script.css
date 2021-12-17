@@ -1,0 +1,47 @@
+*{
+    margin: 0 auto;
+    
+    
+}
+
+
+body{
+    background: rgb(34, 132, 189);
+}
+
+
+header{
+    text-align: center;
+    color: white;
+}
+
+
+section{
+    background: white;
+    border-radius: 10px;
+    width: 50%;
+    height: 100%;
+    margin: auto ;
+    box-shadow: 3px 3px 10px rgb(43, 41, 41);
+    position: relative;
+    padding: 10px;
+}
+
+footer{
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+/*IDs*/
+#hora{
+    text-align: center;
+
+}
+
+#foto{
+    margin:auto;
+    text-align: center;
+}
